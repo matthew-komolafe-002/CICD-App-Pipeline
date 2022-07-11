@@ -204,6 +204,13 @@
         <version>1.2.1</version>
         <scope>test</scope>
       </dependency>
+             
+      <dependency>
+         <groupId>com.example.maven-project</groupId>
+         <artifactId>maven-project</artifactId>
+         <version>1.0-20220711.054024-1</version>
+         <type>pom</type>
+      </dependency>
 
       <dependency>
         <groupId>org.mockito</groupId>
